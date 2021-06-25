@@ -17,6 +17,10 @@ A TRUE BoTW style shadeer for Godot. BoTW's warbly shadows, multiple lights. Its
 * SSAO and other WorldEnvironment effects will work!
 * Incident light can be tinted, also works with coloured lights
 
+<h1>How to Use</h1>
+
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/N8xDQeB3wBs/0.jpg)](https://www.youtube.com/watch?v=N8xDQeB3wBs)
+
 <h1>Settings</h2>
 
 <img width="133" alt="SS4" src="https://user-images.githubusercontent.com/81257780/123421028-64239e80-d5cd-11eb-967f-60d4a63ce667.png">
