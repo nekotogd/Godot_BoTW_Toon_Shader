@@ -1,7 +1,3 @@
-/*
-THIS IS STILL A WORK IN PROGRESS
-Although feel free to try it out!
-*/
 shader_type spatial;
 
 uniform sampler2D albedo_texture : hint_albedo;
