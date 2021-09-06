@@ -5,13 +5,7 @@ A TRUE BoTW style shadeer for Godot. BoTW's warbly shadows, multiple lights. Its
 
 <img width="471" alt="coverimage" src="https://user-images.githubusercontent.com/81257780/123420956-47876680-d5cd-11eb-9958-7053d326d5c5.png">
 
-## Alternate version of shader:
-
-<img width="392" alt="side_shot" src="https://user-images.githubusercontent.com/81257780/132177503-37a4e7c6-a7fa-4e7d-a64c-e3f72e892cfd.png">
-
-[Shader Code](https://github.com/nekotogd/Godot_BoTW_Toon_Shader/blob/main/BOTW_Toon3_WIP.shader)
-
-<h1>Features</h1>
+<h3>Features</h3>
 
 * Animated Shadow Warble
 * Coloured Light Support
@@ -22,6 +16,22 @@ A TRUE BoTW style shadeer for Godot. BoTW's warbly shadows, multiple lights. Its
 * Make shadow intensity darker (use carefully)
 * SSAO and other WorldEnvironment effects will work!
 * Incident light can be tinted, also works with coloured lights
+
+[Shader Code](https://github.com/nekotogd/Godot_BoTW_Toon_Shader/blob/main/BOTW_Toon2.shader)
+[Also available on Godot Shaders](https://godotshaders.com/shader/update-botw-toon-shader/)
+
+# Alternate version of shader:
+
+<img width="392" alt="side_shot" src="https://user-images.githubusercontent.com/81257780/132177503-37a4e7c6-a7fa-4e7d-a64c-e3f72e892cfd.png">
+
+### Features:
+
+* Side Shines (Toon version of subsurface scattering)
+* Smart rimlight (Only shows when against the light)
+* Anisotropic Hair Highlights
+* Smart fresnel shading on lit side of object (Makes object stand out, good for characters)
+
+[Shader Code Alternate](https://github.com/nekotogd/Godot_BoTW_Toon_Shader/blob/main/BOTW_Toon3_WIP.shader)
 
 <h1>How to Use (Video)</h1>
 
