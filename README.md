@@ -5,9 +5,11 @@ A TRUE BoTW style shadeer for Godot. BoTW's warbly shadows, multiple lights. Its
 
 <img width="471" alt="coverimage" src="https://user-images.githubusercontent.com/81257780/123420956-47876680-d5cd-11eb-9958-7053d326d5c5.png">
 
-## Alternate version:
+## Alternate version of shader:
 
 <img width="392" alt="side_shot" src="https://user-images.githubusercontent.com/81257780/132177503-37a4e7c6-a7fa-4e7d-a64c-e3f72e892cfd.png">
+
+[Shader Code](https://github.com/nekotogd/Godot_BoTW_Toon_Shader/blob/main/BOTW_Toon3_WIP.shader)
 
 <h1>Features</h1>
 
