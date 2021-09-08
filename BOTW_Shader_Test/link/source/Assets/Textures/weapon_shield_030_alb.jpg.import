@@ -1,0 +1,34 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/weapon_shield_030_alb.jpg-e29fd56853ee0ce2f0a477eb0aeef11b.stex"
+metadata={
+"vram_texture": false
+}
+
+[deps]
+
+source_file="res://BOTW_Shader_Test/link/source/Assets/Textures/weapon_shield_030_alb.jpg"
+dest_files=[ "res://.import/weapon_shield_030_alb.jpg-e29fd56853ee0ce2f0a477eb0aeef11b.stex" ]
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/bptc_ldr=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+process/invert_color=false
+stream=false
+size_limit=0
+detect_3d=false
+svg/scale=1.0

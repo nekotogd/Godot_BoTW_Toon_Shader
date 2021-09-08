@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/1-21. Talus Battle.mp3-a75d041bb450960be8ddb1752629162c.mp3str"
+
+[deps]
+
+source_file="res://1-21. Talus Battle.mp3"
+dest_files=[ "res://.import/1-21. Talus Battle.mp3-a75d041bb450960be8ddb1752629162c.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

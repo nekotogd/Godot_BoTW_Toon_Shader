@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/1-21. Talus Battle.ogg-3808a1c6010010463d6abc681ab4b1a0.oggstr"
+
+[deps]
+
+source_file="res://1-21. Talus Battle.ogg"
+dest_files=[ "res://.import/1-21. Talus Battle.ogg-3808a1c6010010463d6abc681ab4b1a0.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

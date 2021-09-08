@@ -1,0 +1,13 @@
+[gd_resource type="ShaderMaterial" load_steps=2 format=2]
+
+[ext_resource path="res://BOTW_Shader_Test/godot_botw_grass-main/sha_grass.shader" type="Shader" id=1]
+
+[resource]
+shader = ExtResource( 1 )
+shader_param/color_top = Color( 0.12549, 0.223529, 0.027451, 1 )
+shader_param/color_bottom = Color( 0.0784314, 0.14902, 0.0117647, 1 )
+shader_param/deg_sway_pitch = 80.0
+shader_param/deg_sway_yaw = 45.0
+shader_param/wind_scale = 4.0
+shader_param/wind_speed = 1.0
+shader_param/wind_direction = Vector3( 0, 0, -1 )
